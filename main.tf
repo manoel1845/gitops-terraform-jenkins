@@ -9,7 +9,7 @@ terraform {
 
 # Use AWS Terraform provider
 provider "aws" {
-  region = "us-east-1"
+  region = "sa-east-1"
 }
 
 # Create EC2 instance
